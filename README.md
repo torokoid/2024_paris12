@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris12/20240803_193.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris12/20240803_049.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -123,6 +123,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240803_004.JPG" data-lightbox="abc"><img src="20240803_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_005.JPG" data-lightbox="abc"><img src="20240803_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_006.JPG" data-lightbox="abc"><img src="20240803_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240803_01.png" data-lightbox="abc"><img src="20240803_01.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240803_007.JPG" data-lightbox="abc"><img src="20240803_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_008.JPG" data-lightbox="abc"><img src="20240803_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_009.JPG" data-lightbox="abc"><img src="20240803_009.JPG" alt="サンプル画像" width="900" /></a>
@@ -134,6 +137,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240803_015.JPG" data-lightbox="abc"><img src="20240803_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_016.JPG" data-lightbox="abc"><img src="20240803_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_017.JPG" data-lightbox="abc"><img src="20240803_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240803_02.png" data-lightbox="abc"><img src="20240803_02.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240803_018.JPG" data-lightbox="abc"><img src="20240803_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_019.JPG" data-lightbox="abc"><img src="20240803_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_020.JPG" data-lightbox="abc"><img src="20240803_020.JPG" alt="サンプル画像" width="900" /></a>
@@ -147,10 +153,15 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜その後なでしこ対アメリカ、準々決勝(惜しくも0-1で敗退)〜〜〜<br><br></span></h3>
 
+<a href="20240803_03.png" data-lightbox="abc"><img src="20240803_03.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240803_028.JPG" data-lightbox="abc"><img src="20240803_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_029.JPG" data-lightbox="abc"><img src="20240803_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_030.JPG" data-lightbox="abc"><img src="20240803_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_031.JPG" data-lightbox="abc"><img src="20240803_031.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240803_04.png" data-lightbox="abc"><img src="20240803_04.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240803_032.JPG" data-lightbox="abc"><img src="20240803_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_033.JPG" data-lightbox="abc"><img src="20240803_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_034.JPG" data-lightbox="abc"><img src="20240803_034.JPG" alt="サンプル画像" width="900" /></a>
@@ -160,19 +171,28 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240803_038.JPG" data-lightbox="abc"><img src="20240803_038.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_039.JPG" data-lightbox="abc"><img src="20240803_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_040.JPG" data-lightbox="abc"><img src="20240803_040.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240803_05.png" data-lightbox="abc"><img src="20240803_05.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240803_041.JPG" data-lightbox="abc"><img src="20240803_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_042.JPG" data-lightbox="abc"><img src="20240803_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_043.JPG" data-lightbox="abc"><img src="20240803_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_044.JPG" data-lightbox="abc"><img src="20240803_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_045.JPG" data-lightbox="abc"><img src="20240803_045.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240803_06.png" data-lightbox="abc"><img src="20240803_06.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240803_046.JPG" data-lightbox="abc"><img src="20240803_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_047.JPG" data-lightbox="abc"><img src="20240803_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_048.JPG" data-lightbox="abc"><img src="20240803_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_049.JPG" data-lightbox="abc"><img src="20240803_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_050.JPG" data-lightbox="abc"><img src="20240803_050.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～おしまい。6:00発のバスでパリに向かいます。以上～～～<br><br></span></h3>
+<a href="20240803_07.png" data-lightbox="abc"><img src="20240803_07.png" alt="サンプル画像" width="900" /></a>
 
+<!--
+<h3><span class="yellow"><br>～～～おしまい。6:00発のバスでパリに向かいます。以上～～～<br><br></span></h3>
+-->
 
 
 
