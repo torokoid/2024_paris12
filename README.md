@@ -115,7 +115,7 @@ background-color: rgba(0, 225, 0, 0.6);
 勝ったら、パリ五輪が終わるまでいます。<br><br></span></h3>
 -->
 
-<h3><span class="yellow"><br>〜〜〜Lyonからパリにバス移動、その後なでしこ対アメリカ、準々決勝(惜しくも0-1で敗退)〜〜〜<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜Lyonからパリにバス移動〜〜〜<br><br></span></h3>
 
 <a href="20240803_001.JPG" data-lightbox="abc"><img src="20240803_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_002.JPG" data-lightbox="abc"><img src="20240803_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -144,6 +144,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240803_025.JPG" data-lightbox="abc"><img src="20240803_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_026.JPG" data-lightbox="abc"><img src="20240803_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_027.JPG" data-lightbox="abc"><img src="20240803_027.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>〜〜〜その後なでしこ対アメリカ、準々決勝(惜しくも0-1で敗退)〜〜〜<br><br></span></h3>
+
 <a href="20240803_028.JPG" data-lightbox="abc"><img src="20240803_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_029.JPG" data-lightbox="abc"><img src="20240803_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240803_030.JPG" data-lightbox="abc"><img src="20240803_030.JPG" alt="サンプル画像" width="900" /></a>
